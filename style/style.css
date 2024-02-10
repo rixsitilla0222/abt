@@ -44,7 +44,7 @@ ul {
 }
 
 .nav {
-    background: #00f355e0;
+    background: #000;
     padding: 14px 0;
 }
 
@@ -101,7 +101,7 @@ ul {
 .about {
     padding-top: 30px;
     padding-bottom: 112px;
-    background: #b100ec;
+    background: #0E1C25;
 }
 
 .about__title {
